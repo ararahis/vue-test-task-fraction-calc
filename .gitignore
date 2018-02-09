@@ -6,12 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 
 #dev add
-/static/
-.postcssrc.js
 .editorconfig
 .eslintignore
 .eslintrc.js
-.postcssrc.js
 package-lock.json
 
 # Editor directories and files
