@@ -14,10 +14,10 @@ export default {
     return {
       reviews: [
         {id: 1, name: 'Boris', text: 'I like this SPA', img: require('../assets/avatar.jpg')},
-        {id: 2, name: 'Edip', text: 'I like this SPA to', img: require('../assets/avatar.jpg')},
+        {id: 2, name: 'Edip', text: 'I like this SPA too', img: require('../assets/avatar.jpg')},
         {id: 3, name: 'John Snow', text: 'I like this SPA', img: require('../assets/avatar.jpg')},
         {id: 4, name: 'Boris', text: 'I like this SPA', img: require('../assets/avatar.jpg')},
-        {id: 5, name: 'Edip', text: 'I like this SPA to', img: require('../assets/avatar.jpg')},
+        {id: 5, name: 'Edip', text: 'I like this SPA too', img: require('../assets/avatar.jpg')},
         {id: 6, name: 'John Snow', text: 'I like this SPA', img: require('../assets/avatar.jpg')}
       ]
     }
